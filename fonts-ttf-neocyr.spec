@@ -46,3 +46,14 @@ ttmkfdir %{buildroot}%{_xfontdir}/TTF/neocyr -o %{buildroot}%{_xfontdir}/TTF/neo
 %verify(not mtime) %{_datadir}/fonts/TTF/neocyr/fonts.dir
 %{_xfontdir}/TTF/neocyr/fonts.scale
 %{_sysconfdir}/X11/fontpath.d/ttf-neocyr:pri=50
+
+
+%changelog
+* Fri Dec 09 2011 Dmitry Mikhirev <dmikhirev@mandriva.org> 20110622-1mdv2012.0
++ Revision: 739493
+- Update to 2011-06-22
+
+* Fri Jul 22 2011 Sergey Zhemoitel <serg@mandriva.org> 1.0-1
++ Revision: 690989
+- imported package fonts-ttf-neocyr
+
