@@ -3,7 +3,7 @@
 Summary:	Decorative typeface
 Name:		fonts-ttf-neocyr
 Version:	20110622
-Release:	%mkrel 1
+Release:	2
 License:	OFL
 Group:		System/Fonts/True type
 URL:		http://openfontlibrary.org/font/neocyr
