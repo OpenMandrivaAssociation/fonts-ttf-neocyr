@@ -6,7 +6,7 @@ Version:	20110622
 Release:	2
 License:	OFL
 Group:		System/Fonts/True type
-URL:		http://openfontlibrary.org/font/neocyr
+URL:		https://openfontlibrary.org/font/neocyr
 Source0:	%{pkgname}.zip
 BuildRoot:	%{_tmppath}/%{name}-%{version}-%{release}-buildroot
 BuildArch:	noarch
